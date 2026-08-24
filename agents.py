@@ -11,7 +11,7 @@ from prompts import CRITIC_PROMPT
 
 llm = ChatGroq(
     groq_api_key=GROQ_API_KEY,
-    model="llama-3.3-70b-versatile"
+    model="openai/gpt-oss-20b"
 )
 
 def planner_agent(user_request):
