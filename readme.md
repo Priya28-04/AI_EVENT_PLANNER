@@ -268,7 +268,7 @@ streamlit run app.py
 or
 
 ```bash
-uv run streamlit run app.py
+uv run streamlit run app2.py
 ```
 
 ---
