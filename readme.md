@@ -352,8 +352,7 @@ Add screenshots of:
 ---
 
 # Author
-
-**Your Name**
+Priyanka L Hittalamani
 
 AI & Full Stack Developer
 
